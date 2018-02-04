@@ -1,0 +1,17 @@
+body {
+	background-color: peachpuff;
+	text-align: center;
+}
+
+ul {
+	list-style: none;
+	text-align: center;
+}
+
+#submit {
+	background-color: #286090;
+	border-color: #204d74;
+	color: white;
+	width: 80px;
+	height: 30px;
+}
